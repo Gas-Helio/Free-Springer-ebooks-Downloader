@@ -1,4 +1,4 @@
-# # Free Springer ebooks Downloader
+# Free Springer ebooks Downloader
 
 Um downloader automatizado para livros gratuitos disponibilizados pelo site Springer
 
